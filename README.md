@@ -166,7 +166,7 @@ This report allows stakeholders to:
   5. Analyze overall financial efficiency using Gross Margin %
   6. With filters such as market, region, division, and customer, users can drill down into specific segments to understand financial performance at a more detailed level.
 
-**2. Overview – P&L by Fiscal Year Report** (https://github.com/shettydaishwarya/Excel-Sales_Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)
+**2. Overview – P&L by Market Report** (https://github.com/shettydaishwarya/Excel-Sales_Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)
 
 The P&L by Markets report provides a market-wise breakdown of profitability across different countries. 
 It summarizes key financial metrics such as Net Sales, Total COGS, Gross Margin, and % Gross Margin, enabling a detailed comparison of financial performance across global markets.
