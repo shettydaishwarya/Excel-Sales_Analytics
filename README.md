@@ -89,7 +89,7 @@ It helps businesses understand where they are meeting expectations, where they a
 
 **1. Measure Market Performance Against Targets**
 
-This report compares actual 2021 sales with 2021 targets for each country.
+This report compares actual sales with targets for the year 2021 for each country.
 It clearly highlights:
   1. Markets achieving targets
   2. Markets underperforming (shown using red-colored % values)
